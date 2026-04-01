@@ -1,5 +1,6 @@
-tensorflow==2.13.0
-opencv-python
+--extra-index-url https://google-coral.github.io/py-repo/
+tflite-runtime
+opencv-python-headless
 numpy
 pillow
 fastapi
