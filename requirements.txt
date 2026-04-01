@@ -1,0 +1,10 @@
+tensorflow==2.13.0
+opencv-python
+numpy
+pillow
+fastapi
+uvicorn
+python-multipart
+scikit-learn
+google-api-python-client
+kagglehub

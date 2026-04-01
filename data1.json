@@ -1,0 +1,64 @@
+{
+  "Rice___Blast": {
+    "crop": "Rice",
+    "disease_description": "Rice Blast is a serious fungal disease caused by Magnaporthe oryzae. It mainly attacks leaves, nodes, and panicles. Diamond-shaped lesions with gray or white centers and brown margins appear on leaves, reducing photosynthesis and grain yield.",
+    "cure_and_management": "The best fungicide is Tricyclazole or Azoxystrobin. Spray Tricyclazole at 0.6 grams per litre of water. Apply during early disease appearance. Maintain proper water level and avoid excess nitrogen fertilizer.",
+    "usage_method": "Mix the recommended dose in clean water and spray uniformly on leaves in the evening hours. Repeat after 10–12 days if infection persists."
+  },
+
+  "Rice___Brown_Spot": {
+    "crop": "Rice",
+    "disease_description": "Brown Spot disease is caused by Bipolaris oryzae fungus and is common in nutrient-deficient soils. Circular brown spots with yellow halos appear on leaves, leading to leaf drying and poor grain quality.",
+    "cure_and_management": "Mancozeb is the most effective fungicide. Apply Mancozeb at 2 grams per litre of water. Balanced fertilization with nitrogen and potassium reduces disease severity.",
+    "usage_method": "Spray the fungicide evenly on both sides of leaves. Two sprays at 10-day intervals give good control."
+  },
+
+  "Wheat___Rust": {
+    "crop": "Wheat",
+    "disease_description": "Wheat Rust is a fungal disease caused by Puccinia species. It produces orange or brown powdery pustules on leaves and stems, reducing grain filling and yield.",
+    "cure_and_management": "Propiconazole or Tebuconazole fungicides are effective. Growing resistant wheat varieties is the best long-term solution.",
+    "usage_method": "Spray Propiconazole at 1 ml per litre of water when pustules first appear. One or two sprays are sufficient."
+  },
+
+  "Maize___Leaf_Blight": {
+    "crop": "Maize",
+    "disease_description": "Leaf Blight of maize is caused by Helminthosporium turcicum. Large tan or brown lesions start from leaf edges and spread rapidly under humid conditions.",
+    "cure_and_management": "Mancozeb or Propiconazole fungicide controls the disease. Proper drainage and crop rotation help prevent infection.",
+    "usage_method": "Spray Mancozeb at 2 g per litre during early disease stage. Repeat spray after 12 days if required."
+  },
+
+  "Tomato___Late_Blight": {
+    "crop": "Tomato",
+    "disease_description": "Late Blight is a destructive disease caused by Phytophthora infestans. Dark water-soaked lesions appear on leaves and fruits, followed by white fungal growth, leading to plant death.",
+    "cure_and_management": "Metalaxyl or Mancozeb fungicides are highly effective. Avoid overhead irrigation and ensure proper air circulation.",
+    "usage_method": "Spray Metalaxyl at recommended dose in cool evening hours. Repeat every 7–10 days during wet weather."
+  },
+
+  "Tomato___Leaf_Curl": {
+    "crop": "Tomato",
+    "disease_description": "Tomato Leaf Curl Virus is spread by whiteflies. Infected plants show upward leaf curling, yellowing, and stunted growth, causing severe yield loss.",
+    "cure_and_management": "Imidacloprid insecticide controls whitefly population. Use yellow sticky traps to monitor insects.",
+    "usage_method": "Spray Imidacloprid at 0.3 ml per litre on lower leaf surfaces. Apply early morning or evening."
+  },
+
+  "Potato___Late_Blight": {
+    "crop": "Potato",
+    "disease_description": "Potato Late Blight causes rapid browning of leaves and stems, followed by tuber rot. The disease spreads quickly in cool and moist conditions.",
+    "cure_and_management": "Metalaxyl or Ridomil Gold is recommended. Timely spraying prevents complete crop loss.",
+    "usage_method": "Spray Ridomil Gold at 2 g per litre of water. Two to three sprays at 7-day intervals are effective."
+  },
+
+  "Brinjal___Fruit_Borer": {
+    "crop": "Brinjal",
+    "disease_description": "Fruit and Shoot Borer is a major insect pest. Larvae bore into shoots and fruits, causing wilting and making fruits unfit for sale.",
+    "cure_and_management": "Spinosad or Emamectin Benzoate gives excellent control. Remove and destroy affected shoots regularly.",
+    "usage_method": "Spray Emamectin Benzoate at 0.4 g per litre of water. Apply at 10-day intervals."
+  },
+
+  "Mustard___Alternaria_Blight": {
+    "crop": "Mustard",
+    "disease_description": "Alternaria Blight is caused by Alternaria brassicae. It forms circular dark brown spots on leaves and pods, reducing oil content and seed quality.",
+    "cure_and_management": "Mancozeb fungicide is effective. Use disease-free seeds and proper spacing.",
+    "usage_method": "Spray Mancozeb at 2 g per litre at first symptom appearance and repeat after 12 days."
+  }
+}
